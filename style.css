@@ -26,8 +26,9 @@ body{
     font-size: 32px;
 }
 .titulo-principal.span{
-    color: var(--cor-de-Texto);
+    color: #f703de;
 }
 .botao{
     font-family: Georgia, 'Times New Roman', Times, serif;
+
 }
