@@ -25,7 +25,7 @@ body{
     width: 100%;
     font-size: 32px;
 }
-.titulo-principal.span{
+.titulo-principal span{
     color: var(#f703de);
 }
 .botao{
