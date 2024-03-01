@@ -30,5 +30,9 @@ body{
 }
 .botao{
     font-family: Georgia, 'Times New Roman', Times, serif;
-
+    background-color: var(--botao-inativo);
+    color: var(--branco);
+    display: flex;
+    justify-content: center;
+    padding: 1em;
 }
