@@ -28,3 +28,6 @@ body{
 .titulo-principal.span{
     color: var(--cor-de-Texto);
 }
+.botao{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
