@@ -4,7 +4,7 @@
     --cor-de-fundo : #fbb4ff;
     --cor-de-Texto : #FF00E5 ; 
     --cor-de-textoo : #7C20F1; 
---cor-das-letras: #FFFFFF;
+    --cor-das-letras: #FFFFFF;
 }
 body{
     background-color: var(--cor-de-fundo);
@@ -24,5 +24,7 @@ body{
     text-align: left;
     width: 100%;
     font-size: 32px;
-    
+}
+.titulo-principal.span{
+    color: var(--cor-de-Texto);
 }
