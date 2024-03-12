@@ -6,7 +6,7 @@
     --cor-de-textoo : #7C20F1; 
     --cor-das-letras: #FFFFFF;
     --botao-ativo: #7C20F1; 
-    --botao-inativo:#ec44f1;
+    --botao-inativo:#dd27dd;
 }
 body{
     background-color: var(--cor-de-fundo);
