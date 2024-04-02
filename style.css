@@ -5,7 +5,7 @@
     --cor-de-Texto : #f703de ; 
     --cor-de-textoo : #7C20F1; 
     --cor-das-letras: #FFFFFF;
-    --botao-ativo: #7C20F1; 
+    --botao-ativo: hsl(266, 96%, 70%); 
     --botao-inativo:#dd27dd;
 }
 body{
