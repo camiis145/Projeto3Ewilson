@@ -14,7 +14,7 @@ for(let i = 0; i < botoes.length; i++){
 const contadores = document.querySelectorALL(".contador");
 const tempoObjetivo1 = new Date("2024-12-28T23:59:59");
 
-const tempo = [
+const tempos = [
     tempoObjetivo1
 
 ]
@@ -38,9 +38,9 @@ segundos %= 60;
 minutos %= 60;
 horas %= 24;
 
-return dias + "dias"
-+ horas + "horas"
-+ minutos + "minutos"
+return dias + "dias";
++ horas + "horas";
++ minutos + "minutos";
 + segundos + "segundos";
 
 }
