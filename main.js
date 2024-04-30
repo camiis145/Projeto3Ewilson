@@ -13,7 +13,12 @@ for(let i = 0; i < botoes.length; i++){
 }
 const contadores = document.querySelectorALL(".contador");
 const tempoObjetivo1 = new Date("2024-12-28T23:59:59");
-let tempoAtual = new Date();
+
+const tempo = [
+    tempoObjetivo1
+
+]
+
 
 for (let i=0; i< contadores.length; i++){
 contadores[i].textContent = calculaTempo(tempo[i])
